@@ -74,10 +74,10 @@ app.route("/compose")
           const news = newsMail.email;
           //// nodemailer variables ////
           var transporter = nodemailer.createTransport({
-            service: 'outlook',
+            service: 'outlook', ////gmail, yahoo...
             auth: {
-              user: 'adryann3@outlook.com',
-              pass: 'Titanio123'
+              user: '////////////@////////',
+              pass: '////////////'
             }
           });
 
