@@ -1,0 +1,40 @@
+body {
+  background-color: #F2E205;
+  text-align: center;
+  padding: 20%;
+  position: relative;
+}
+img{
+  position: absolute;
+  bottom: 60%;
+  right: 43%;
+  border-radius: 50%;
+  width: 10%;
+  background-color: #F2E205;
+}
+.lg {
+  display: block;
+  margin: 0 35%;
+  width: 35%;
+}
+
+.checkbox {
+  display: block;
+  margin: 0 45%;
+position: absolute;
+left: 12.3%;
+bottom: 45.5%;
+}
+
+
+button {
+  position: absolute;
+  top: 65%;
+  right: 46%;
+}
+
+footer {
+  position: absolute;
+  top: 100%;
+  left: 48%;
+}
